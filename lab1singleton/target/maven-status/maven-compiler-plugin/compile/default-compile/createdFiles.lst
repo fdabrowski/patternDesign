@@ -1,0 +1,3 @@
+Singleton.class
+DoubleCheckedLockingSingleton.class
+ExtendedSingleton.class
