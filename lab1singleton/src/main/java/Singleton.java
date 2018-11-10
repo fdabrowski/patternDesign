@@ -1,10 +1,8 @@
-import java.io.Serializable;
-
 public class Singleton {
 
     private static Singleton singletonInstance;
 
-    protected Singleton (){
+    protected Singleton() {
     }
 
     public static Singleton getInstance() {

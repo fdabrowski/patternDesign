@@ -1,7 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a0aa3f2e-4c65-4c02-84e8-37277e58e09c" name="Default Changelist" comment="" />
+    <list default="true" id="a0aa3f2e-4c65-4c02-84e8-37277e58e09c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/singleton.ser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/singleton.text" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SerializationSingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SerializationSingleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Singleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/SerializationSingletonTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SerializationSingletonTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/SingletonTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SingletonTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SerializationSingleton.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SerializationSingleton.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/DoubleCheckedLockingSingletonTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/DoubleCheckedLockingSingletonTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/SingletonTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/SingletonTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-DoubleCheckedLockingSingletonTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-DoubleCheckedLockingSingletonTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-SingletonTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-SingletonTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/SerializationSingletonTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/SerializationSingletonTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/SingletonTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/SingletonTest.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -83,18 +102,19 @@
         <counts>
           <entry key="project.closed" value="1" />
           <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="344" />
+          <entry key="java" value="605" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="344" />
+          <entry key="JAVA" value="605" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -125,8 +145,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Singleton.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+            <state relative-caret-position="102">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
               <folding>
                 <element signature="e#365#366#0" expanded="true" />
                 <element signature="e#404#405#0" expanded="true" />
@@ -149,8 +169,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/SerializationSingleton.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="30" column="5" lean-forward="true" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+            <state relative-caret-position="136">
+              <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -158,8 +178,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/SerializationSingletonTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="94">
-              <caret line="10" column="72" lean-forward="true" selection-start-line="10" selection-start-column="72" selection-end-line="10" selection-end-column="72" />
+            <state relative-caret-position="510">
+              <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -170,8 +190,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/SingletonTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="204">
+              <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -182,7 +202,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/DoubleCheckedLockingSingletonTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
+            <state relative-caret-position="646">
               <caret line="49" column="103" selection-start-line="49" selection-start-column="93" selection-end-line="49" selection-end-column="103" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -206,6 +226,9 @@
       <find>d:</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -215,11 +238,11 @@
         <option value="$PROJECT_DIR$/src/test/java/DoubleCheckedLockingSingleton.java" />
         <option value="$PROJECT_DIR$/.idea/workspace.xml" />
         <option value="$PROJECT_DIR$/src/main/java/DoubleCheckedLockingSingleton.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Singleton.java" />
-        <option value="$PROJECT_DIR$/src/test/java/SingletonTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/DoubleCheckedLockingSingletonTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/SerializationSingletonTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/SingletonTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/SerializationSingleton.java" />
+        <option value="$PROJECT_DIR$/src/test/java/SerializationSingletonTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Singleton.java" />
       </list>
     </option>
   </component>
@@ -263,19 +286,23 @@
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="lab1singleton" type="b2602c69:ProjectViewProjectNode" />
               <item name="lab1singleton" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lab1singleton" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lab1singleton" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="lab1singleton" type="b2602c69:ProjectViewProjectNode" />
@@ -312,12 +339,14 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541209115403" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541856502812" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="project.propDebugger" />
   </component>
@@ -338,7 +367,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.SerializationSingletonTest.check_if_serialized_object_has_the_same_hashcode">
+  <component name="RunManager" selected="JUnit.SingletonTest">
     <configuration name="DoubleCheckedLockingSingletonTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="lab1-singleton" />
       <option name="PACKAGE_NAME" value="" />
@@ -393,11 +422,11 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.SingletonTest" />
         <item itemvalue="JUnit.SerializationSingletonTest.check_if_serialized_object_has_the_same_hashcode" />
         <item itemvalue="JUnit.SerializationSingletonTest" />
         <item itemvalue="JUnit.DoubleCheckedLockingSingletonTest" />
         <item itemvalue="JUnit.DoubleCheckedLockingSingletonTest.check_if_serialized_object_has_different_hashcode" />
-        <item itemvalue="JUnit.SingletonTest" />
       </list>
     </recent_temporary>
   </component>
@@ -416,19 +445,11 @@
       <workItem from="1541204648873" duration="457000" />
       <workItem from="1541205187436" duration="3089000" />
       <workItem from="1541208304149" duration="811000" />
+      <workItem from="1541856020935" duration="480000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="DoubleCheckedLockingSingletonTest_check_if_serialized_object_has_different_hashcode - 2018.11.03 at 02h 27m 19s.xml">
-      <configuration name="DoubleCheckedLockingSingletonTest.check_if_serialized_object_has_different_hashcode" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="DoubleCheckedLockingSingletonTest - 2018.11.03 at 02h 27m 50s.xml">
-      <configuration name="DoubleCheckedLockingSingletonTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SerializationSingletonTest - 2018.11.03 at 02h 28m 02s.xml">
-      <configuration name="SerializationSingletonTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="SerializationSingletonTest_check_if_serialized_object_has_the_same_hashcode - 2018.11.03 at 02h 33m 56s.xml">
       <configuration name="SerializationSingletonTest.check_if_serialized_object_has_the_same_hashcode" configurationId="JUnit" />
     </history-entry>
@@ -450,15 +471,24 @@
     <history-entry file="SerializationSingletonTest_check_if_serialized_object_has_the_same_hashcode - 2018.11.03 at 02h 38m 20s.xml">
       <configuration name="SerializationSingletonTest.check_if_serialized_object_has_the_same_hashcode" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="SerializationSingletonTest_check_if_serialized_object_has_the_same_hashcode - 2018.11.10 at 14h 26m 51s.xml">
+      <configuration name="SerializationSingletonTest.check_if_serialized_object_has_the_same_hashcode" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SerializationSingletonTest_check_if_serialized_object_has_the_same_hashcode - 2018.11.10 at 14h 27m 20s.xml">
+      <configuration name="SerializationSingletonTest.check_if_serialized_object_has_the_same_hashcode" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SingletonTest - 2018.11.10 at 14h 27m 29s.xml">
+      <configuration name="SingletonTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16051000" />
+    <option name="totallyTimeSpent" value="16531000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17910448" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18070363" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -529,7 +559,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/SerializationSingletonTest.java</url>
-          <line>20</line>
+          <line>26</line>
           <properties />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
@@ -584,6 +614,13 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ExtendedSingleton.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/Assert.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5168">
+          <caret line="333" selection-start-line="333" selection-end-line="333" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -591,10 +628,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/DoubleCheckedLockingSingletonTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="49" column="103" selection-start-line="49" selection-start-column="93" selection-end-line="49" selection-end-column="103" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/SerializationSingletonTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Singleton.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
           <folding>
             <element signature="e#365#366#0" expanded="true" />
             <element signature="e#404#405#0" expanded="true" />
@@ -604,20 +661,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/Assert.class">
+    <entry file="file://$PROJECT_DIR$/src/main/java/SerializationSingleton.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5168">
-          <caret line="333" selection-start-line="333" selection-end-line="333" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/DoubleCheckedLockingSingletonTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="49" column="103" selection-start-line="49" selection-start-column="93" selection-end-line="49" selection-end-column="103" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="136">
+          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
         </state>
       </provider>
     </entry>
@@ -628,27 +675,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/SerializationSingletonTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="94">
-          <caret line="10" column="72" lean-forward="true" selection-start-line="10" selection-start-column="72" selection-end-line="10" selection-end-column="72" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/SerializationSingleton.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="30" column="5" lean-forward="true" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/SingletonTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="204">
+          <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

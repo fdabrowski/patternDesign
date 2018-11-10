@@ -4,6 +4,10 @@ public class SerializationSingleton implements Serializable {
 
     private static SerializationSingleton singletonInstance;
 
+    public String name;
+
+    public int age;
+
     public static SerializationSingleton getInstance() {
         if (singletonInstance == null) {
             // double checked locking

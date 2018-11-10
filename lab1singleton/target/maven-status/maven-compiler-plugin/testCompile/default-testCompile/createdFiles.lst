@@ -1,2 +1,3 @@
+SerializationSingletonTest.class
 DoubleCheckedLockingSingletonTest.class
 SingletonTest.class

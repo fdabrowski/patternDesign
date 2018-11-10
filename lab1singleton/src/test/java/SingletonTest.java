@@ -37,8 +37,6 @@ public class SingletonTest {
         executorService.awaitTermination(1, TimeUnit.MINUTES);
 
         System.out.println(singletonSet);
-
-//        Assert.assertNotEquals(1, singletonSet.size());
     }
 
 }
